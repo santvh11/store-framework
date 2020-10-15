@@ -1,6 +1,6 @@
 {
   "vendor": "vtexcol",
-  "name": "theme",
+  "name": "training",
   "version": "0.0.1",
   "builders": {
     "styles": "2.x",
